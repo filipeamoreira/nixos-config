@@ -1,5 +1,7 @@
 # NixOS System Configurations
 
+This is based on the NixOS configuration of (Mitchell Hashimoto)[https://github.com/mitchellh/nixos-config.git].
+
 This repository contains my NixOS system configurations. This repository
 isn't meant to be a turnkey solution to copying my setup or learning Nix,
 so I want to apologize to anyone trying to look for something "easy". I've
